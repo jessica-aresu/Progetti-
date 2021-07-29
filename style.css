@@ -1,0 +1,65 @@
+.head-banner{
+  padding-top: 8rem;
+  padding-top: 8rem;
+  background-color:#14213d;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+
+}
+
+.sec-icons{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.img-section .img{
+  min-height: 10rem;
+}
+.img-section .text{
+
+  padding: 2rem;
+
+
+}
+
+
+.recensioni{
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+
+.newsletter{
+  padding-top: 8rem;
+  padding-top: 8rem;
+  background-color:#14213d;
+  background-size: cover;
+
+}
+
+.footer{
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.list-inline-item > a{
+  color: black;
+
+}
+
+
+@media screen and (min-width:768px){
+  .head-banner{
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+
+  }
+  .img-section .img{
+    min-height: 20rem;
+  }
+  .img-section .text{
+
+    padding: 2rem;
+
+}
